@@ -1,0 +1,14 @@
+using System;  //number 5
+
+class Program {
+  public static void Main (string[] args) {
+
+for(int i = 3; i <=99; i+=2)
+{
+   Console.WriteLine(i);
+      }
+
+    
+    
+  }
+} 
